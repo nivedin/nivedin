@@ -41,7 +41,7 @@
 </div>
 
 <br/>
-###🔨 Languages and Tools:
+🔨 Languages and Tools:
 <br/>
 
 <img align="left" alt="Visual Studio Code" width="26px"
