@@ -20,7 +20,7 @@
 <details>
   <summary>GitHub Stats</summary>
 
-  <img align="center" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=nivedin&show_icons=true&hide_border=true" />
+  <img align="center" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=nivedin&show_icons=true&hide_border=true&theme=graywhite" />
 
 </details>
 </div>
