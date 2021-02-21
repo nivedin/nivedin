@@ -18,10 +18,8 @@
 <div>
     <details>
         <summary>⚡ GitHub Stats</summary>
-
         <img align="center" alt="codeSTACKr's GitHub Stats"
-            src="https://github-readme-stats.codestackr.vercel.app/api?username=nivedin&show_icons=true&hide_border=true&theme=graywhite" />
-
+            src="https://github-readme-stats.codestackr.vercel.app/api?username=nivedin&show_icons=true&hide_border=true" />
     </details>
 </div>
 
@@ -30,20 +28,19 @@
         <summary>📜 GitHub History</summary>
         <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nivedin&" alt="nivedin" />
         </p>
-        .
     </details>
 </div>
 
 <div>
     <details>
         <summary>🛠️ Most Used Languages</summary>
-
         <p><img align="center"
                 src="https://github-readme-stats.vercel.app/api/top-langs?username=nivedin&show_icons=true&locale=en&layout=compact"
                 alt="nivedin" /></p>
     </details>
 </div>
 
+<br>
 ⚙️💻🔨 Languages and Tools:
 
 [<img align="left" alt="Visual Studio Code" width="26px"
