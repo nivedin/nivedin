@@ -70,8 +70,8 @@
     
     
     
-<h1 align="center"><img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" alt="hand" height="50" width="50" /> Hi, I'm Nivedin</h1>
-<h3 align="center">A MERN stack developer</h3>
+<h1 ><img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" alt="hand" height="50" width="50" /> Hi, I'm Nivedin</h1>
+<h3 >A MERN stack developer</h3>
 
 - 👨‍💻 All of my projects are available at [nivedin.me](nivedin.me)
 
