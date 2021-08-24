@@ -74,7 +74,7 @@
 <h3 >A Front-End developer</h3>
 
 - 🌱 I’m currently learning the MERN Stack
-- 
+
 - 👨‍💻 All of my projects are available at [nivedin.me](nivedin.me)
 
 - 📫 Reach out to me at **nivedinp@gmail.com**
