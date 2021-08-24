@@ -77,7 +77,7 @@
 
 - 👨‍💻 All of my projects are available at [https://www.nivedin.me](nivedin.me)
 
-- 📫 Reach out to me at **nivedinp@gmail.com**  <a href="mailto:nivedinp@gmail.com" target="blank"><img align="center" src="https://www.vectorlogo.zone/util/preview.html?image=/logos/gmail/gmail-tile.svg" alt="nivedinp" height="20" width="30" /></a>
+- 📫 Reach out to me at **nivedinp@gmail.com**  <a href="mailto:nivedinp@gmail.com" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-tile.svg" alt="nivedinp" height="20" width="30" /></a>
            <a href="https://linkedin.com/in/nivedinp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nivedinp" height="20" width="30" /></a>
 
 <h3 align="left">Languages and Tools:</h3>
