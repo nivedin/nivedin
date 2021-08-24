@@ -102,7 +102,7 @@
 
 <div>
     <details>
-        <summary>📜 GitHub History</summary>
+        <summary>📜 GitHub Stats</summary>
         <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nivedin&" alt="nivedin" />
         </p>
     </details>
