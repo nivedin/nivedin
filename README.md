@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning the MERN Stack
 
-- 👨‍💻 All of my projects are available at [nivedin.tech](https://www.nivedin.tech)
+- 👨‍💻 All of my projects are available at [nivedin.com](https://www.nivedin.com/)
 
 - 📫 Reach out to me at **nivedinp@gmail.com**  
            
