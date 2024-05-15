@@ -1,8 +1,6 @@
 <h1 >👋 Hi, I'm Nivedin</h1>
 <h3 >A Front-End developer</h3>
 
-- 🌱 I’m currently learning the MERN Stack
-
 - 👨‍💻 All of my projects are available at [nivedin.com](https://www.nivedin.com/)
 
 - 📫 Reach out to me at **nivedinp@gmail.com**  
